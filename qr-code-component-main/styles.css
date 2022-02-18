@@ -1,27 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lato:wght@300&family=Outfit:wght@500&family=Poppins:ital,wght@0,100;0,300;1,400&display=swap');
 body{
      font-family: 'Outfit', sans-serif;
-     min-width: 100%vh;
+     min-width: 100vh;
      display: flex;
      justify-content: center;
      align-items: center;
      background-color: hsl(212, 45%, 89%);
-     margin-top:100px;
+     min-height: 100vh;
+     
 }
 p{
     color:hsl(220, 15%, 55%);
-    font-size: 1px;
+    font-size: 1rem;
     text-align: center;
-    width: 225px;
+    width: 250px;
     font-weight: thin;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 h4{
     color:hsl(218, 44%, 22%);
     text-align: center;
-    width: 225px;
-    font-size: 15px;
-    margin-left: 10px;
+    width: 250px;
+    font-size: 1rem;
+    margin-left: 5px;
 
 }
 .div{
@@ -31,6 +32,7 @@ h4{
     min-height: 300px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
+   
 }
 img{
     height: 250px;
