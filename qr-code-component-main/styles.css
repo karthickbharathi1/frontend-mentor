@@ -17,7 +17,7 @@ p{
     font-weight: thin;
     margin-left: 5px;
 }
-h4{
+h1{
     color:hsl(218, 44%, 22%);
     text-align: center;
     width: 250px;
@@ -31,11 +31,11 @@ h4{
     width: 250px;
     min-height: 300px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 15px;
    
 }
 img{
-    height: 250px;
+    height: 275px;
     width: 250px;
     border-radius: 10px;
 }
